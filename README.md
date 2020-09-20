@@ -28,7 +28,7 @@ $ cp .env.example .env
 ```
 ##### 5. Install package dependencies
 ```console
-$ npm run install 
+$ npm install 
 ```
 ##### 6. Run project
 ```console
